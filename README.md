@@ -10,7 +10,7 @@
 <h3 align="center">About Me & My Works 🚀 !!</h3>
 
 
-- 🔭 I’m currently working on **Express**
+- 🔭 I’m currently working on **Express and Blockchain**
 
 - 🧐 I'm very passionate about **new technologies & Artififcial Intelligence**
 
