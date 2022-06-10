@@ -1,39 +1,37 @@
-<h1 align="center">Hi 👋, I'm Abhinab Sarkar - NECROSIS 👋</h1>
-<h3 align="center">I'm a Mern Stack Developer 💻 and a Gamer 🐱‍🚀 !!</h3>
+<h1 align="center">Hi 👋, I'm Sayon Chakraborty - CRISIS 👋</h1>
+<h3 align="center">I'm a Mern Stack Developer 💻 and a Tech enthusiast 🐱‍🚀 !!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinabsarkar07&label=Profile%20views&color=0e75b6&style=flat" alt="abhinabsarkar07" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=abhinabsarkar07&label=Profile%20views&color=0e75b6&style=flat](https://media-exp2.licdn.com/dms/image/C5603AQHS2I0lgwKPcQ/profile-displayphoto-shrink_800_800/0/1644819809617?e=1660176000&v=beta&t=vg0KCm7r_KSKpBH41c1F7vVHxRJhAQdFII8L8trdriU)" alt="Crisis204" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinabsarkar07" alt="abhinabsarkar07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Crisis204" alt="Crisis204" /></a> </p>
 
 
 
 <h3 align="center">About Me & My Works 🚀 !!</h3>
 
 
-- 🔭 I’m currently working on **Sonix**
+- 🔭 I’m currently working on **Express**
 
-- 🧐 I'm very passionate about **new technologies & Games😎**
+- 🧐 I'm very passionate about **new technologies & Artififcial Intelligence**
 
 - 🥅 2022 Goals: [To Grow more in Mern Stack Developer & more to Open Source projects & CloudComputing](To Grow more in Mern Stack Developer & more to Open Source projects & CloudComputing)
 
 - 🌱 I’m currently learning **Mern stack Web Development, Docker, and Serverless 💻**
 
-- 📫 How to reach me **abhinabsarkar07@gmail.com**
+- 📫 How to reach me **sayon.chakraborty2000@gmail.com**
 
-- ⚡ Fun fact **I love to Listing to music, play & stream CS:GO ,Valorant & RPG.I am also a Profesional Photographer**
+- ⚡ Fun fact **I love to Listing to music, read science fiction articles**
 
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abhinabsarkar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhinabsarkar1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinab-sarkar-15943b188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinab-sarkar-15943b188" height="30" width="40" /></a>
-<a href="https://fb.com/abhinabraj07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinabraj07" height="30" width="40" /></a>
-<a href="https://instagram.com/@__ra__j_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__ra__j_" height="30" width="40" /></a>
-<a href="https://www.behance.net/abhinab sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abhinab sarkar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/necrosis gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="necrosis gaming" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhinabsarkar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhinabsarkar07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhinab sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinab sarkar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sayon-chakraborty-a7a77a14a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayon-chakraborty-a7a77a14a/" height="30" width="40" /></a>
+<a href="https://instagram.com/___sayon____?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__sayon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sayon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sayon" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/2019606193_sayon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asyon chakraborty" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sayonchakraborty2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sayon chakraborty" height="30" width="40" /></a>
 <a href="https://discord.gg/kafUTtxQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kafUTtxQ" height="30" width="40" /></a>
 </p>
 
