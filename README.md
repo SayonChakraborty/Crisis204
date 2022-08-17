@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sayon Chakraborty - CRISIS 👋</h1>
-<h3 align="center">I'm a Mern Stack Developer 💻 and a Tech enthusiast 🐱‍🚀 !!</h3>
+<h1 align="center">Hi 👋, I'm Sayon Chakraborty  👋</h1>
+<h3 align="center">I'm a Developer 💻 and a Tech enthusiast 🐱‍🚀 !!</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=abhinabsarkar07&label=Profile%20views&color=0e75b6&style=flat](https://media-exp2.licdn.com/dms/image/C5603AQHS2I0lgwKPcQ/profile-displayphoto-shrink_800_800/0/1644819809617?e=1660176000&v=beta&t=vg0KCm7r_KSKpBH41c1F7vVHxRJhAQdFII8L8trdriU)" alt="Crisis204" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Crisis204" alt="Crisis204" /></a> </p>
 
